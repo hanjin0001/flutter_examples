@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_examples/bottom_navigation.dart';
+import 'package:flutter_examples/bottom_navigation/bottom_navigation.dart';
 import 'package:tuple/tuple.dart';
 
 void main() {
