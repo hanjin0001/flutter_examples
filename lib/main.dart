@@ -12,6 +12,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     "";
     "";
+    "new feature";
     return MaterialApp(
       title: 'Flutter Examples',
       theme: ThemeData(
