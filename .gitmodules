@@ -1,0 +1,3 @@
+[submodule "flutter_examples_sub"]
+	path = flutter_examples_sub
+	url = https://github.com/hanjin0001/flutter_examples
