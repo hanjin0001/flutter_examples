@@ -30,6 +30,7 @@ class MyApp extends StatelessWidget {
 }
 
 class MainPage extends StatelessWidget {
+  "dev";
   final _itemSource = [
     Tuple2("Bottom Navigation", ()=> BottomNavigation())
   ];
